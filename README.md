@@ -1,2 +1,2 @@
 # FPS_Game
-A multiplayer sci-fi firs person shooter game 
+A multiplayer sci-fi first person shooter game 
